@@ -1,1 +1,7 @@
 item.ItemKarambit.name=Karambit
+
+tile.BlockSandBag.name=Sandbag
+
+tile.BlockAirRaidSiren.name=Air Raid Siren
+
+itemGroup.tabWW2Additions.name=WW2 Additions

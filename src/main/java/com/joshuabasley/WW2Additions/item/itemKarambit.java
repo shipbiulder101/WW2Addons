@@ -24,6 +24,7 @@ public class itemKarambit extends ItemSword {
         super(material);
     }
 
+
     @Override
     public void onUpdate(ItemStack stack, World world, Entity entity, int par4, boolean par5){
         super.onUpdate(stack,world,entity,par4,par5);
